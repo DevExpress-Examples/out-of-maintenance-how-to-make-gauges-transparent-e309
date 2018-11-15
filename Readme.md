@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Spidometer/Form1.cs)
+* [Program.cs](./CS/Spidometer/Program.cs)
+<!-- default file list end -->
 # How to make gauges transparent
 
 
